@@ -1,0 +1,16 @@
+{
+  "name": "salvation-co",
+  "version": "1.0.0",
+  "description": "Salvation-Co Private Server",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[Cindex.php"
+  },
+  "author": "Melivn van Zutphen",
+  "license": "ISC",
+  "dependencies": "bootstrap"
+}
