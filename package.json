@@ -12,5 +12,5 @@
   },
   "author": "Melivn van Zutphen",
   "license": "ISC",
-  "dependencies": "bootstrap"
+  "dependencies": "bootstrap",
 }
